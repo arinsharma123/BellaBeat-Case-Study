@@ -38,8 +38,9 @@ Tools & technologies used: Python Data Libraries, Jupyter notebook, PostgreSQL, 
 
 ## Previews of some of the Analytical data viz
 
-![bellaimg2](https://github.com/arinsharma123/BellaBeat/assets/128144029/a449567c-1819-42d8-bea0-ca58e61ce1cb)
 ![bellaimg1](https://github.com/arinsharma123/BellaBeat/assets/128144029/4e5e0cce-26fe-4eb5-ad88-42da29b9b451)
+![bellaimg2](https://github.com/arinsharma123/BellaBeat/assets/128144029/a449567c-1819-42d8-bea0-ca58e61ce1cb)
+![2nd patla, lamba](https://github.com/arinsharma123/BellaBeat/assets/128144029/e2c97f4b-da88-49e7-b3a5-95aa67719edc)
 
 ## Tableau Dashboard
 ![obeseVnormal(per_hour)](https://github.com/arinsharma123/BellaBeat/assets/128144029/7e82ff46-9699-44ab-a99a-6f92ca04bebb)
